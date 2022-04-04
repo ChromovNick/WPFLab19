@@ -1,0 +1,16 @@
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\bin\Debug\WPFLab_19.exe.config
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\bin\Debug\WPFLab_19.exe
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\bin\Debug\WPFLab_19.pdb
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\WPFLab_19.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\App.g.cs
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\WPFLab_19_MarkupCompile.cache
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\WPFLab_19_MarkupCompile.lref
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\Views\MainWindow.baml
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\WPFLab_19.g.resources
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\WPFLab_19.Properties.Resources.resources
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\WPFLab_19.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\WPFLab_19.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\WPFLab_19.exe
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\WPFLab_19.pdb
+C:\Users\Никита\Desktop\C#\WPF\Lab_19\WPFLab_19\WPFLab_19\obj\Debug\GeneratedInternalTypeHelper.g.cs
