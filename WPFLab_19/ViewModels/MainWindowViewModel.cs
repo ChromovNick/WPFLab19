@@ -19,8 +19,8 @@ namespace WPFLab_19.ViewModels
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(PropertyName));
         }
 
-        private int number1;
-        public int Number1
+        private double number1;
+        public double Number1
         {
             get => number1;
             set
@@ -30,8 +30,8 @@ namespace WPFLab_19.ViewModels
             }
         }
 
-        private int number2;
-        public int Number2
+        private double number2;
+        public double Number2
         {
             get => number2;
             set
@@ -41,26 +41,17 @@ namespace WPFLab_19.ViewModels
             }
         }
 
-        private int number3;
-        public int Number3
-        {
-            get => number3;
-            set
-            {
-                number3 = value;
-                OnPropertyChanged();
-            }
-        }
+
 
         public ICommand AddCommand { get; }
         private void OnAddCommandExecute(object p)
         {
-            Number3 = Ariph.Add(Number1, Number2);
+            Number2 = Ariph.Add(Number1);
         }
 
         private bool CanAddCommandExecuted (object p)
         {
-            if (Number1 != 0 || Number2 != 0)
+            if (Number1 != 0 || Number2==0)
                 return true;
             else
             {

@@ -11,10 +11,10 @@
         <vm:MainWindowViewModel/>
     </Window.DataContext>
     <StackPanel>
+        <TextBlock Text="Введите радиус R:" FontWeight="Bold"/>
         <TextBox Text="{Binding Path=Number1}"/>
-        <TextBox Text="{Binding Path=Number2}"/>
-        <Button Content="Сумма" Command="{Binding Path=AddCommand}"/>
-        <TextBox Text="{Binding Path=Number3}"/>
+        <Button Content="Рассчитать длину окружности" Command="{Binding Path=AddCommand}"/>
+        <TextBlock Text="{Binding Path=Number2}"/>
 
     </StackPanel>
 </Window>
